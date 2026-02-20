@@ -95,6 +95,7 @@ def main():
               f"    Closest Match: {closest}.\n")
         
     print(f"Total Score (0-10): {score}")
+    input("\nPress Enter to exit...")
 
 if __name__ == "__main__":
     main()
